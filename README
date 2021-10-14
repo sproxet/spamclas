@@ -1,0 +1,1 @@
+OPEN_AI_KEY=blahblahblah cargo run TELEGRAM_API_KEY detect_spam.py
